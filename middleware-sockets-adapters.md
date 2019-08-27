@@ -3,6 +3,14 @@
 
 #### Websockets
 
+- **socket.io-emitter-middleware**  
+  https://github.com/epavanello/socket.io-emitter-middleware  
+  A redux middleware that allows you to emit a socket.io message by dispatch an action.
+  
+- **socket.io-subscriber-middleware**  
+  https://github.com/epavanello/socket.io-subscriber-middleware  
+  A redux middleware that allows you to subscribe/usnubscribe a socket.io event by dispatch an action and get the messages via callback or via redux action.
+  
 - **redux-socket**  
   https://github.com/quirinpa/redux-socket  
   A redux middleware that allows you to trigger a socket request on the client-side and dispatch an action in response.
